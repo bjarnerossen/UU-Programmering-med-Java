@@ -10,10 +10,10 @@ Furthermore, it teaches to apply criteria and tools to evaluate the usability an
 
 **Course Outline:**
 
-| Name        |  Week |
-| :---------- | :----: |
-| **[Lab 1](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab1/src/KnotToKph.java)**   |   4 |
-| **[Lab 2](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab2/src/CharCounter.java)**   |   7 |
+| Name        |  Week |  Status |
+| :---------- | :----: | :----: |
+| **[Lab 1](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab1/src/KnotToKph.java)**   |   4 | ✅ |
+| **[Lab 2](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab2/src/CharCounter.java)**   |   7 |  ✅ |
 | **Dugga 1**   |  10 |
 | **Lab 3**  | 11 |
 | **Lab 4** | 14 |
