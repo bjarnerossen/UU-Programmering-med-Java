@@ -3,16 +3,16 @@ import java.util.HashMap;
 
 /**
  * Laboration 3 - UU - Inledande programmering med Java (VT2023)
- * AverageCalculator is a program that takes in a number of integers from the user
- * and calculates the average and how many of the numbers were only entered once.
- * The program also handles incorrect input from the user.
+ * Skriv ett program som med hjälp av kommandofönstret tar in ett antal heltal
+ * för att sedan skriva ut medelvärdet och hur många av de angivna talen som
+ * endast angetts en gång. Programmet ska även kunna hantera felaktig input.
  */
 public class AverageCalculator {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("**HELTALSHANTERARE**");
+        System.out.println("** HELTALSHANTERARE **");
 
         // Prompt user for the number of ints
         int n = getNumberOfIntegers(input);
