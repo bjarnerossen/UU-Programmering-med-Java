@@ -21,3 +21,6 @@ Furthermore, it teaches to apply criteria and tools to evaluate the usability an
 | **Dugga 2** | 20 |
 | **Lab 6** | 21 |
 | **Tenta** | 22 |
+
+---
+> **DISCLAIMER:** *The code provided in this repository is for educational purposes only. It is intended to demonstrate various concepts and techniques related to programming and software development. The code is not intended to be used as a reference for academic work or submissions.*
