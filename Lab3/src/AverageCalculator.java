@@ -8,7 +8,12 @@ import java.util.HashMap;
  * endast angetts en gång. Programmet ska även kunna hantera felaktig input.
  */
 public class AverageCalculator {
+    /**
+     * This is the main class of the program, which contains the main method
+     * and coordinates the input and output of the program.
+     */
 
+    // Main method that drives the program
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -60,7 +65,6 @@ public class AverageCalculator {
     /**
      * Prompt the user for an integer.
      */
-
     public static int getInteger(Scanner input, int index) {
         int num = 0;
         boolean validNum = false;
