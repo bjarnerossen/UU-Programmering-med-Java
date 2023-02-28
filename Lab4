@@ -1,0 +1,11 @@
+int getComputerChoice() {
+    return new Random().nextInt(3);
+}
+ 
+
+/**
+ * Determine the round winner.
+ * @param userChoice the user's choice (0 = Rock, 1 = Paper, 2 = Scissors)
+ * @param computerChoice the computer's choice (0 = Rock, 1 = Paper, 2 = Scissors)
+ * @return -1 for a draw, 0 if the user won, and 1 if the computer won 
+ */
