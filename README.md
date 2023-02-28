@@ -17,7 +17,7 @@ Furthermore, it teaches to apply criteria and tools to evaluate the usability an
 | **Dugga 1**   |  10 | ✅ |
 | **[Lab 3](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab3/src/AverageCalculator.java)**  | 11 | ✅ |
 | **Lab 4** | 14 | ✅ |
-| **[Lab 5](https://github.com/bjarnerossen/UU-Programmering-med-Java/tree/main/Lab5/out/production/Lab5)** | 18 | ✅ |
+| **[Lab 5](https://github.com/bjarnerossen/UU-Programmering-med-Java/tree/main/Lab5/TranslationGame/src)** | 18 | ✅ |
 | **Dugga 2** | 20 | ✅ |
 | **Lab 6** | 21 |
 | **Tenta** | 22 |
