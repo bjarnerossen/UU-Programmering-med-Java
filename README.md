@@ -19,7 +19,7 @@ Furthermore, it teaches to apply criteria and tools to evaluate the usability an
 | **[Lab 4](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab4.txt)** | 14 | ✅ |
 | **[Lab 5](https://github.com/bjarnerossen/UU-Programmering-med-Java/tree/main/Lab5/TranslationGame/src)** | 18 | ✅ |
 | **Dugga 2** | 20 | ✅ |
-| **[Lab 6](https://github.com/bjarnerossen/UU-Programmering-med-Java/tree/main/Lab6/moviedatabase/out/production/moviedatabase/moviedatabase)** | 21 |✅ |
+| **[Lab 6](https://github.com/bjarnerossen/UU-Programmering-med-Java/tree/main/Lab6/moviedatabase)** | 21 |✅ |
 | **Tenta** | 22 |
 
 ---
