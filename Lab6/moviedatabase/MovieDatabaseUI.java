@@ -123,7 +123,7 @@ public class MovieDatabaseUI {
 		Movie movie = new Movie(title, reviewScore);
 
 		System.out.println("You are about to add the following movie: ");
-		System.out.println(movie);
+		System.out.println("Title: " + movie.getTitle() + "\n" + "Review Score: " + movie.getReviewScore());
 		System.out.print("Do you want to add this movie? (Y/N): ");
 		String confirmation = scanner.nextLine().trim().toLowerCase();
 		if (confirmation.equals("y")) {
