@@ -40,6 +40,8 @@ public class AverageCalculator {
 
     /**
      * Prompt the user for the number of integers to enter.
+     * @param input a Scanner object to read user input
+     * @return the number of integers to be entered
      */
     public static int getNumberOfIntegers(Scanner input) {
         int n = 0;
@@ -64,6 +66,9 @@ public class AverageCalculator {
 
     /**
      * Prompt the user for an integer.
+     * @param input a Scanner object to read user input
+     * @param index the index of the integer being entered
+     * @return the integer entered by the user
      */
     public static int getInteger(Scanner input, int index) {
         int num = 0;
@@ -84,6 +89,8 @@ public class AverageCalculator {
 
     /**
      * Count the number of unique integers in the array.
+     * @param numbers an array of integers to count unique numbers from
+     * @return the number of unique integers in the array
      */
     public static int countUniqueNumbers(int[] numbers) {
         int uniqueNumbers = 0;
@@ -113,6 +120,8 @@ public class AverageCalculator {
 
     /**
      * Calculate the average of the integers in the array.
+     * @param numbers an array of integers to calculate the average from
+     * @return the average of the integers in the array
      */
     public static int calculateAverage(int[] numbers) {
         int sum = 0;
