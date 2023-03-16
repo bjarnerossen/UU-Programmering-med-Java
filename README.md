@@ -1,14 +1,15 @@
 # UU-Inledande-programmering-med-Java (UU-76010)
 
-### Introduction to Programming with Java course at Uppsala University
-
+## Introduction to Programming with Java course at Uppsala University
+### Course Description
 The course covers how to create structured object-oriented programs using the Java programming language. During the course, I learned basic concepts such as variables, methods, objects and classes. Other parts covered are documentation, error handling, troubleshooting and testing.
 
 Furthermore, it teaches to apply criteria and tools to evaluate the usability and accessibility of web pages.
 
 ---
-
-**Course Outline:**
+### 💻 Technologies
+* `Java programming language`
+### **🗓️ Course Outline**
 
 | Name        |  Week |  Status |
 | :---------- | :----: | :----: |
