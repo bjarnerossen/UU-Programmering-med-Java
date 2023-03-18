@@ -1,16 +1,19 @@
-# UU-Inledande-programmering-med-Java (UU-76010)
-
-## Introduction to Programming with Java course at Uppsala University
-### Course Description
+# Introduction to Programming with Java course at Uppsala University (2IS233)
 The course covers how to create structured object-oriented programs using the Java programming language. During the course, I learned basic concepts such as variables, methods, objects and classes. Other parts covered are documentation, error handling, troubleshooting and testing.
 
-Furthermore, it teaches to apply criteria and tools to evaluate the usability and accessibility of web pages.
-
----
-### 💻 Technologies
+## 💻 Technologies
 * `Java programming language`
-### **🗓️ Course Outline**
 
+## 🚀 Getting Started
+To get started with this repository, simply clone the repository to your local machine.
+
+```terminal
+$ git clone https://github.com/username/uu-programmering-med-java.git
+```
+
+Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
+
+## **🗓️ Course Outline**
 | Name        |  Week |  Status |
 | :---------- | :----: | :----: |
 | **[Lab 1](https://github.com/bjarnerossen/UU-Programmering-med-Java/blob/main/Lab1/src/KnotToKph.java)**   |   4 | ✅ |
