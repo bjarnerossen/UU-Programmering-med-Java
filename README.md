@@ -8,7 +8,7 @@ The course covers how to create structured object-oriented programs using the Ja
 To get started with this repository, simply clone the repository to your local machine.
 
 ```terminal
-$ git clone https://github.com/username/uu-programmering-med-java.git
+$ git clone https://github.com/bjarnerossen/uu-programmering-med-java.git
 ```
 
 Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
